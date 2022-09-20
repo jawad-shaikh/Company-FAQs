@@ -40,6 +40,10 @@ h5 {
   z-index: 9999999;
 }
 
+h2.now{
+  font-weight: bolder;
+}
+
 .loading-area img {
   width: 100px;
 }
